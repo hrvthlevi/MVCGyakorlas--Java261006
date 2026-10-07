@@ -39,6 +39,7 @@ public class FilmekGUI extends javax.swing.JFrame {
         jLabel3 = new javax.swing.JLabel();
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
+        setTitle("Filmek");
 
         jButton1.setText("Előző");
 
